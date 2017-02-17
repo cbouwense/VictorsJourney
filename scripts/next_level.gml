@@ -37,4 +37,13 @@ switch (global.room) {
         case 12:
             room_goto(level13);
             break;
+        case 13:
+            room_goto(level14);
+            break;
+        case 14:
+            room_goto(level15);
+            break;
+        case 15:
+            room_goto(level16);
+            break;
 }

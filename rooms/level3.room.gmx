@@ -21,7 +21,10 @@ global.grav_on = false;
 global.dim = 1;
 global.inversions = 1;
 
-global.orientation = 1;</code>
+global.orientation = 1;
+
+global.initBlocksVisible = true;
+global.blocksVisible = false;</code>
   <enableViews>0</enableViews>
   <clearViewBackground>-1</clearViewBackground>
   <clearDisplayBuffer>-1</clearDisplayBuffer>
