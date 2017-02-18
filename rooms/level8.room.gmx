@@ -65,16 +65,22 @@ global.blocksVisible = false;</code>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="obj_victor" x="704" y="752" name="inst_798BF89F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_oob" x="-32" y="0" name="inst_34280CD2" locked="0" code="" scaleX="1" scaleY="29" colour="4294967295" rotation="0"/>
+    <instance objName="obj_victor" x="704" y="768" name="inst_798BF89F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_oob" x="-64" y="0" name="inst_34280CD2" locked="0" code="" scaleX="1" scaleY="29" colour="4294967295" rotation="0"/>
     <instance objName="obj_oob" x="0" y="912" name="inst_CDA3C33D" locked="0" code="" scaleX="46" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_oob" x="1440" y="0" name="inst_A36304A8" locked="0" code="" scaleX="1" scaleY="28" colour="4294967295" rotation="0"/>
     <instance objName="obj_oob" x="-32" y="-32" name="inst_4691CA7B" locked="0" code="" scaleX="47" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_goal" x="704" y="304" name="inst_3A416AD4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_draw" x="224" y="304" name="inst_8EC7288D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_wall" x="608" y="832" name="inst_8B4E247B" locked="0" code="" scaleX="2.75" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_dim2" x="800" y="496" name="inst_ABAE49C4" locked="0" code="" scaleX="3" scaleY="1" colour="4294967295" rotation="180"/>
-    <instance objName="obj_dim1" x="608" y="368" name="inst_6A5D9A20" locked="0" code="" scaleX="3" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall" x="608" y="832" name="inst_53ED8044" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall" x="672" y="832" name="inst_FCBBB659" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall" x="736" y="832" name="inst_A0AE8A27" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_dim2" x="608" y="432" name="inst_6B089B15" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_dim2" x="672" y="432" name="inst_42033114" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_dim2" x="736" y="432" name="inst_9C6D8326" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_dim1" x="608" y="368" name="inst_23CFA002" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_dim1" x="672" y="368" name="inst_9C1CF378" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_dim1" x="736" y="368" name="inst_CA47CB4E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

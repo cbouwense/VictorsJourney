@@ -10,20 +10,21 @@
   <persistent>0</persistent>
   <colour>12632256</colour>
   <showcolour>-1</showcolour>
-  <code>global.room = 1;
+  <code>global.room = 16;
 
-global.spawn_x = 720;
-global.spawn_y = 768;
+global.spawn_x = 96;
+global.spawn_y = 112;
 
 global.grav = 0.4;
 global.grav_on = true;
 
 global.dim = 1;
-global.inversions = 10;
+global.inversions = 5;
 
 global.orientation = 1;
 
-global.blocksVisible = 1;</code>
+global.resetVisibility = false;
+global.blocksVisible = true;</code>
   <enableViews>0</enableViews>
   <clearViewBackground>-1</clearViewBackground>
   <clearDisplayBuffer>-1</clearDisplayBuffer>

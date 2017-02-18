@@ -1,6 +1,6 @@
 audio_play_sound(snd_die, 1, false);
 
-global.blocksVisible = global.initBlocksVisible;
+global.resetVisibility = true;
 
 visible = false;
 moveable = false;

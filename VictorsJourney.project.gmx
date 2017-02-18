@@ -5,7 +5,7 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound">
-    <sound>sound\sound0</sound>
+    <sound>sound\music</sound>
     <sound>sound\snd_run</sound>
     <sound>sound\snd_jump</sound>
     <sound>sound\snd_next_level</sound>
@@ -17,6 +17,8 @@
     <sprite>sprites\spr_goal</sprite>
     <sprite>sprites\spr_dim1</sprite>
     <sprite>sprites\spr_dim2</sprite>
+    <sprite>sprites\spr_dis</sprite>
+    <sprite>sprites\spr_credit_text</sprite>
     <sprite>sprites\spr_level1_text</sprite>
     <sprite>sprites\spr_level2_text</sprite>
     <sprite>sprites\spr_level3_text</sprite>
@@ -39,8 +41,6 @@
     <sprite>sprites\sprite23</sprite>
     <sprite>sprites\sprite24</sprite>
     <sprite>sprites\spr_credits</sprite>
-    <sprite>sprites\spr_credit_text</sprite>
-    <sprite>sprites\spr_dis</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\dim1_bkgn</background>
@@ -87,7 +87,6 @@
     <object>objects\obj_dis</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\level14</room>
     <room>rooms\title_screen</room>
     <room>rooms\credits</room>
     <room>rooms\level1</room>
@@ -103,7 +102,10 @@
     <room>rooms\level11</room>
     <room>rooms\level12</room>
     <room>rooms\level13</room>
+    <room>rooms\level14</room>
     <room>rooms\level15</room>
+    <room>rooms\level16</room>
+    <room>rooms\level17</room>
     <room>rooms\empty</room>
   </rooms>
   <help>

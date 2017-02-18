@@ -25,7 +25,19 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>visible = global.blocksVisible;
+            <string>/// Disappearing logic.
+
+if (image_alpha &gt; 0) {
+    global.blocksVisible = true;
+    image_alpha -= (0.004 / image_alpha);
+}
+else {
+    global.blocksVisible = false;
+}
+
+if (keyboard_check_pressed(vk_space) || global.resetVisibility) {
+    image_alpha = 1;
+}
 </string>
           </argument>
         </arguments>

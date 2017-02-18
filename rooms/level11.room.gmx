@@ -70,7 +70,6 @@ global.blocksVisible = false;</code>
     <instance objName="obj_oob" x="0" y="896" name="inst_CDA3C33D" locked="0" code="" scaleX="46" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_oob" x="1440" y="0" name="inst_A36304A8" locked="0" code="" scaleX="1" scaleY="28" colour="4294967295" rotation="0"/>
     <instance objName="obj_oob" x="-32" y="-32" name="inst_4691CA7B" locked="0" code="" scaleX="47" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_spikes" x="912" y="368" name="inst_C8F97218" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spikes" x="912" y="432" name="inst_51AB66DD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spikes" x="912" y="496" name="inst_79F7FB11" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spikes" x="912" y="560" name="inst_60CA36D2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -78,7 +77,6 @@ global.blocksVisible = false;</code>
     <instance objName="obj_spikes" x="912" y="688" name="inst_06425343" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spikes" x="912" y="752" name="inst_15F40183" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spikes" x="912" y="816" name="inst_DFC1D7DD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_spikes" x="400" y="448" name="inst_004313E3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spikes" x="400" y="384" name="inst_D6BA40A9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spikes" x="400" y="320" name="inst_2A97E70B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spikes" x="400" y="256" name="inst_8B52639C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

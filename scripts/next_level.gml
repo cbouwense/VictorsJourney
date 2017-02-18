@@ -46,4 +46,16 @@ switch (global.room) {
         case 15:
             room_goto(level16);
             break;
+        case 16:
+            room_goto(level17);
+            break;
+        case 17:
+            room_goto(level18);
+            break;
+        case 18:
+            room_goto(level19);
+            break;
+        case 19:
+            room_goto(level20);
+            break;
 }

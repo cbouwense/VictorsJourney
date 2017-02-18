@@ -82,8 +82,6 @@ global.blocksVisible = false;</code>
     <instance objName="obj_spikes" x="432" y="560" name="inst_44B0EA4F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spikes" x="432" y="496" name="inst_ED99B4D1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spikes" x="432" y="432" name="inst_D9669BBF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_spikes" x="432" y="368" name="inst_98C3D73B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_spikes" x="976" y="368" name="inst_1F177A4F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spikes" x="976" y="432" name="inst_57F423AC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spikes" x="976" y="496" name="inst_DCB97628" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spikes" x="976" y="560" name="inst_C122EECE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

@@ -79,7 +79,9 @@ show_debug_message("tried to go to next room");
             <kind>1</kind>
             <string>visible = true;
 moveable = true;
-object_set_visible(obj_dis, global.blocksVisible);
+
+global.blocksVisible = true;
+global.resetVisibility = false;
 </string>
           </argument>
         </arguments>
