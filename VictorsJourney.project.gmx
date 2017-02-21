@@ -35,6 +35,7 @@
     <sprite>sprites\spr_victor_fucking_dies2</sprite>
     <sprite>sprites\spr_title</sprite>
     <sprite>sprites\spr_play</sprite>
+    <sprite>sprites\spr_levels</sprite>
     <sprite>sprites\spr_exit</sprite>
     <sprite>sprites\sprite21</sprite>
     <sprite>sprites\spr_spikes</sprite>
@@ -80,6 +81,7 @@
     <object>objects\obj_dead_victor</object>
     <object>objects\obj_title</object>
     <object>objects\obj_play</object>
+    <object>objects\obj_levels</object>
     <object>objects\obj_exit</object>
     <object>objects\obj_draw</object>
     <object>objects\obj_spikes</object>
@@ -87,11 +89,12 @@
     <object>objects\obj_credit_text</object>
     <object>objects\obj_menu</object>
     <object>objects\obj_dis</object>
+    <object>objects\obj_goto_level</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\level15</room>
     <room>rooms\title_screen</room>
     <room>rooms\credits</room>
+    <room>rooms\level_select</room>
     <room>rooms\level1</room>
     <room>rooms\level2</room>
     <room>rooms\level3</room>
@@ -106,6 +109,7 @@
     <room>rooms\level12</room>
     <room>rooms\level13</room>
     <room>rooms\level14</room>
+    <room>rooms\level15</room>
     <room>rooms\level16</room>
     <room>rooms\level17</room>
     <room>rooms\empty</room>
