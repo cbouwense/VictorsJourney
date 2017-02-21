@@ -76,7 +76,6 @@ global.blocksVisible = false;</code>
     <instance objName="obj_dim1" x="944" y="416" name="inst_A3C46215" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_dim1" x="1008" y="416" name="inst_01F375D4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_dim1" x="1072" y="416" name="inst_561D2532" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="&lt;undefined&gt;" x="0" y="0" name="inst_9F82FCFA" locked="0" code="" scaleX="0" scaleY="0" colour="0" rotation="0"/>
     <instance objName="obj_wall" x="240" y="512" name="inst_0773566D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="304" y="512" name="inst_5E28CBDA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="368" y="512" name="inst_C7D85D87" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

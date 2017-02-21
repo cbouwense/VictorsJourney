@@ -45,6 +45,8 @@
   <backgrounds name="background">
     <background>background\dim1_bkgn</background>
     <background>background\dim2_bkgn</background>
+    <background>background\donato_bkgn1</background>
+    <background>background\donato_bkgn2</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
@@ -87,6 +89,7 @@
     <object>objects\obj_dis</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\level15</room>
     <room>rooms\title_screen</room>
     <room>rooms\credits</room>
     <room>rooms\level1</room>
@@ -103,7 +106,6 @@
     <room>rooms\level12</room>
     <room>rooms\level13</room>
     <room>rooms\level14</room>
-    <room>rooms\level15</room>
     <room>rooms\level16</room>
     <room>rooms\level17</room>
     <room>rooms\empty</room>
