@@ -24,7 +24,9 @@ global.inversions = 1;
 global.orientation = 1;
 
 global.initBlocksVisible = true;
-global.blocksVisible = false;</code>
+global.blocksVisible = false;
+
+global.fuckyou = false;</code>
   <enableViews>0</enableViews>
   <clearViewBackground>-1</clearViewBackground>
   <clearDisplayBuffer>-1</clearDisplayBuffer>

@@ -186,6 +186,9 @@ else {
 }
 
 if (inversions &gt; 0 &amp;&amp; key_change_dim == 1) {
+    if (inversions == 1) {
+        global.fuckyou = true;
+    }
     audio_play_sound(snd_change_dim, 2, false);
     if (dim == 1) {
         dim += key_change_dim;
@@ -200,6 +203,9 @@ if (inversions &gt; 0 &amp;&amp; key_change_dim == 1) {
     }
     global.blocksVisible = !global.blocksVisible;
     inversions--;
+}
+else {
+    global.fuckyou = false;
 }
 
 // Inner collision with collision dimensional objects

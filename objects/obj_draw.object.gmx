@@ -27,8 +27,9 @@
             <kind>1</kind>
             <string>// Update inversion count
 draw_set_alpha(1);
-draw_set_colour(c_black);
-draw_set_font(fnt_tahoma);
+draw_set_colour(c_white);
+draw_set_font(fnt_chris);
+
 
 // If Victor is running or idle and is upright
 if ((obj_victor.sprite_index == spr_victor_run_dim1

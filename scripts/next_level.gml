@@ -58,4 +58,7 @@ switch (global.room) {
         case 19:
             room_goto(level20);
             break;
+        case 20:
+            room_goto(title_screen);
+            break;
 }

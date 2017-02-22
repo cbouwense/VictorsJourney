@@ -14,10 +14,11 @@
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_wall</sprite>
-    <sprite>sprites\spr_goal</sprite>
     <sprite>sprites\spr_dim1</sprite>
     <sprite>sprites\spr_dim2</sprite>
     <sprite>sprites\spr_dis</sprite>
+    <sprite>sprites\spr_goal</sprite>
+    <sprite>sprites\spr_spikes</sprite>
     <sprite>sprites\spr_credit_text</sprite>
     <sprite>sprites\spr_level1_text</sprite>
     <sprite>sprites\spr_level2_text</sprite>
@@ -37,10 +38,9 @@
     <sprite>sprites\spr_play</sprite>
     <sprite>sprites\spr_levels</sprite>
     <sprite>sprites\spr_exit</sprite>
-    <sprite>sprites\sprite21</sprite>
-    <sprite>sprites\spr_spikes</sprite>
-    <sprite>sprites\sprite23</sprite>
-    <sprite>sprites\sprite24</sprite>
+    <sprite>sprites\spr_level_nums</sprite>
+    <sprite>sprites\spr_up_lvl</sprite>
+    <sprite>sprites\spr_down_lvl</sprite>
     <sprite>sprites\spr_credits</sprite>
   </sprites>
   <backgrounds name="background">
@@ -48,6 +48,8 @@
     <background>background\dim2_bkgn</background>
     <background>background\donato_bkgn1</background>
     <background>background\donato_bkgn2</background>
+    <background>background\donato_bkgn3</background>
+    <background>background\donato_bkgn4</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
@@ -62,8 +64,8 @@
     <script>scripts\next_level.gml</script>
   </scripts>
   <fonts name="fonts">
-    <font>fonts\font0</font>
     <font>fonts\fnt_tahoma</font>
+    <font>fonts\fnt_chris</font>
   </fonts>
   <objects name="objects">
     <object>objects\obj_victor</object>
@@ -90,6 +92,8 @@
     <object>objects\obj_menu</object>
     <object>objects\obj_dis</object>
     <object>objects\obj_goto_level</object>
+    <object>objects\obj_down_lvl</object>
+    <object>objects\obj_up_lvl</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\title_screen</room>
@@ -112,6 +116,9 @@
     <room>rooms\level15</room>
     <room>rooms\level16</room>
     <room>rooms\level17</room>
+    <room>rooms\level18</room>
+    <room>rooms\level19</room>
+    <room>rooms\level20</room>
     <room>rooms\empty</room>
   </rooms>
   <help>

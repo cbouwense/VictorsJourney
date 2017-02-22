@@ -35,7 +35,7 @@ else {
     global.blocksVisible = false;
 }
 
-if (keyboard_check_pressed(vk_space) || global.resetVisibility) {
+if ((keyboard_check_pressed(vk_space) || global.resetVisibility) &amp;&amp; (obj_victor.inversions || global.fuckyou)) {
     image_alpha = 1;
 }
 </string>
